@@ -1,0 +1,14 @@
+{
+  "name": "torneo-modulo",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Modulo reutilizable de torneos, llaves, inscripciones y scoring de tenis para Milligan Club.",
+  "main": "src/tournaments/index.js",
+  "peerDependencies": {
+    "firebase": "^12.0.0",
+    "lucide-react": "^0.555.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
